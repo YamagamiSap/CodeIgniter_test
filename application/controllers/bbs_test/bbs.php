@@ -31,5 +31,3 @@ class Bbs extends CI_Controller {
 
 }
 
-/* End of file myfile.php */
-/* Location: ./system/modules/mymodule/myfile.php */
